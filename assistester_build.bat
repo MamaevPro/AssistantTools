@@ -1,0 +1,1 @@
+pyinstaller --onefile assistester.py  -i "favicon.ico"
